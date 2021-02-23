@@ -13,9 +13,9 @@ install:
 
 * `pkg install python2`
 * `pkg install git`
-* `git clone https://github.com/Ranginang67/DarkFly-Tool`
+* `git clone https://github.com/Jokerhack1/DarkFly-Tool`
 * `cd DarkFly-Tool`
-* `python2 install.py`
+* `python2 JokerHack.py`
 
 ```
 1.if installed is complite, use command
@@ -26,9 +26,9 @@ $DarkFly
 
 **NOTE:**
 ```
-if python2 install.py is not allowed or fail, Use this
-$chmod +x install.py
-$python2 install.py
+if python2 JokerHack.py is not allowed or fail, Use this
+$chmod +x JokerHack.py
+$python2 JokerHack.py
 ```
 **how to update:**
 
