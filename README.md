@@ -38,5 +38,6 @@ for update this tool, just do the reinstallation, the first way is to install th
 the DarkFly tools on linux does not working
 ```
 
-# support me
-<a href="https://www.youtube.com/channel/UCNMD5U02GFeWLqmrl_XSPGQ"><img src="https://img.shields.io/badge/subcribe-YouTube-red.svg">
+# Made by Joker Hack
+My channel Telegram : @jokerhacker_channel
+Email:Jokerhack563@gmail.com
