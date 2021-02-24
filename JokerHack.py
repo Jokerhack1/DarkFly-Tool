@@ -1,10 +1,10 @@
 #!/usr/bin/python
 
 """
-Author             : Jokerhack
-contact            : Jokerhack563@gmail.com
-Github             : https://github.com/Jokerhack1 
-my Telegram channel : @jokerhacker_channel
+Author             : Code_Hacks
+contact            : Channel Code_Hacks 
+Github             : https://github.com/Code_Hacks 
+my Telegram channel : https://t.me/Code_Hacks 
 
 subcribe my Telegram Channel to learn ethical Hacking ^_^
 """
