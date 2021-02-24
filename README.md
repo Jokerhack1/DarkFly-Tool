@@ -38,6 +38,6 @@ for update this tool, just do the reinstallation, the first way is to install th
 the DarkFly tools on linux does not working
 ```
 
-# Made by Joker Hack
-My channel Telegram : @jokerhacker_channel
-Email:Jokerhack563@gmail.com
+# Made by Code_Hacks
+My channel Telegram : @Code_Hacks
+https://t.me/Code_Hacks 
